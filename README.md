@@ -1,2 +1,2 @@
 # jammer
-private
+A private normalization project.
